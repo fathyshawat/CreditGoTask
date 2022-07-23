@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CreditGo</string>
+    <string name="check_connection">Check Internet Connection</string>
+    <string name="went_wrong">Some went wrong with connection</string>
+    <string name="login_first">please login first</string>
+    <string name="server_error">Server Error</string>
+</resources>
